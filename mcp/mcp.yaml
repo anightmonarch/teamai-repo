@@ -1,0 +1,7 @@
+servers:
+  - name: github
+    transport: http
+    url: https://api.github.com/mcp
+    headers:
+      Authorization: Bearer ${GITHUB_TOKEN}
+

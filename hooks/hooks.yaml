@@ -1,0 +1,7 @@
+hooks:
+  - id: block-dangerous-ops
+    description: 拦截生产环境危险命令
+    event: PreToolUse
+    matcher: Bash
+    command: 'bash -lc "echo "[teamai] 危险命令，需要人工确认: rm -rf / kubectl delete / DROP TABLE" >&2; exit 1"'
+    tools: [claude, codex, cursor]
