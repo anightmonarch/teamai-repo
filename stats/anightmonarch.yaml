@@ -1,5 +1,5 @@
 username: anightmonarch
-updatedAt: 2026-11-04T21:59:32.598Z
+updatedAt: 2026-11-05T01:26:58.023Z
 skills:
   yixiujun-writer:
     count: 2
@@ -11,15 +11,15 @@ skills:
     count: 1
     lastUsed: 2026-10-08T09:24:24.059Z
 interventions:
-  sessions: 15
+  sessions: 16
   interrupt: 0
   toolReject: 0
   correction: 2
-prompts: 47
+prompts: 50
 tokens:
-  input: 83040489
-  output: 30712
-  cacheRead: 60883968
+  input: 83156426
+  output: 30969
+  cacheRead: 61138048
   cacheCreation: 0
 daily:
   2026-09-20:
@@ -28,110 +28,1044 @@ daily:
     promptTurns: 0
     durationMs: 0
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 2
+    costMicros: 95264
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
   2026-09-30:
     sessionsEnded: 1
     sessionsSucceeded: -1
     promptTurns: 17
     durationMs: 2812570
     sessionsCorrected: 2
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 2
+    costMicros: 324951
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
   2026-10-07:
     sessionsEnded: 1
     sessionsSucceeded: 1
     promptTurns: 3
     durationMs: 1734905
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 1
+    costMicros: 171197
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
   2026-10-08:
     sessionsEnded: 2
     sessionsSucceeded: 2
     promptTurns: 6
     durationMs: 4353558
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 4
+    costMicros: 292423
     cacheReadTokens: 0
     cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
   2026-11-02:
     sessionsEnded: 1
     sessionsSucceeded: 1
-    promptTurns: 12
-    durationMs: 1460287
+    promptTurns: 14
+    durationMs: 1790213
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
-    cacheReadTokens: 59739648
-    cacheEligibleInputTokens: 142598893
+    pricedRequests: 10
+    costMicros: 173036
+    cacheReadTokens: 59993728
+    cacheEligibleInputTokens: 142968910
+    priceVersion: litellm-2026-10-31-b264711
   2026-11-03:
     sessionsEnded: 2
     sessionsSucceeded: 2
     promptTurns: 2
     durationMs: 57068
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 8
+    costMicros: 25519
     cacheReadTokens: 168064
     cacheEligibleInputTokens: 203828
+    priceVersion: litellm-2026-10-31-b264711
   2026-11-04:
     sessionsEnded: 2
     sessionsSucceeded: 2
     promptTurns: 4
     durationMs: 316058
     sessionsCorrected: 0
-    pricedRequests: 0
-    costMicros: 0
+    pricedRequests: 6
+    costMicros: 34516
     cacheReadTokens: 976256
     cacheEligibleInputTokens: 1121736
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-09:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 5
+    costMicros: 19485
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-10:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 1
+    costMicros: 11787
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-12:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 1
+    costMicros: 14739
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-14:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 2
+    costMicros: 35293
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-15:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 12
+    costMicros: 98345
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-16:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 142849
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-17:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 134822
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-18:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 143295
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-19:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 156395
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-21:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 10
+    costMicros: 634290
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-22:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 590018
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-23:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 589006
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-24:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 523425
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-27:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 4
+    costMicros: 330732
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-28:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 369950
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-09-29:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 3
+    costMicros: 184972
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-09:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 8
+    costMicros: 425921
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-10:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 340219
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-11:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 250179
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-12:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 596931
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-13:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 762632
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-14:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 679085
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-15:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 279771
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-16:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 5
+    costMicros: 386844
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-17:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 4
+    costMicros: 384320
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-18:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 410419
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-19:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 7
+    costMicros: 768255
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-20:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 4
+    costMicros: 408373
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-21:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 953521
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-22:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 7
+    costMicros: 948485
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-23:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 733658
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-24:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 875332
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-25:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 751948
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-26:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 8
+    costMicros: 739616
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-27:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 1027803
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-28:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 1048018
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-29:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 8
+    costMicros: 931847
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-30:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 9
+    costMicros: 963492
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-10-31:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 6
+    costMicros: 643436
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
+  2026-11-01:
+    sessionsEnded: 0
+    sessionsSucceeded: 0
+    promptTurns: 0
+    durationMs: 0
+    sessionsCorrected: 0
+    pricedRequests: 3
+    costMicros: 322451
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+    priceVersion: litellm-2026-10-31-b264711
 attended:
   interventions:
-    sessions: 6
+    sessions: 7
     interrupt: 0
     toolReject: 0
     correction: 0
-  prompts: 19
+  prompts: 22
   tokens:
-    input: 83040489
-    output: 30712
-    cacheRead: 60883968
+    input: 83156426
+    output: 30969
+    cacheRead: 61138048
     cacheCreation: 0
   daily:
     2026-11-02:
       sessionsEnded: 1
       sessionsSucceeded: 1
-      promptTurns: 12
-      durationMs: 1460287
+      promptTurns: 14
+      durationMs: 1790213
       sessionsCorrected: 0
-      pricedRequests: 0
-      costMicros: 0
-      cacheReadTokens: 59739648
-      cacheEligibleInputTokens: 142598893
+      pricedRequests: 10
+      costMicros: 173036
+      cacheReadTokens: 59993728
+      cacheEligibleInputTokens: 142968910
+      priceVersion: litellm-2026-10-31-b264711
     2026-11-03:
       sessionsEnded: 2
       sessionsSucceeded: 2
       promptTurns: 2
       durationMs: 57068
       sessionsCorrected: 0
-      pricedRequests: 0
-      costMicros: 0
+      pricedRequests: 8
+      costMicros: 25519
       cacheReadTokens: 168064
       cacheEligibleInputTokens: 203828
+      priceVersion: litellm-2026-10-31-b264711
     2026-11-04:
       sessionsEnded: 2
       sessionsSucceeded: 2
       promptTurns: 4
       durationMs: 316058
       sessionsCorrected: 0
-      pricedRequests: 0
-      costMicros: 0
+      pricedRequests: 6
+      costMicros: 34516
       cacheReadTokens: 976256
       cacheEligibleInputTokens: 1121736
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-09:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 5
+      costMicros: 19485
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-10:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 1
+      costMicros: 11787
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-12:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 1
+      costMicros: 14739
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-14:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 2
+      costMicros: 35293
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-15:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 12
+      costMicros: 98345
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-16:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 142849
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-17:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 134822
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-18:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 143295
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-19:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 156395
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-20:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 2
+      costMicros: 95264
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-21:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 10
+      costMicros: 634290
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-22:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 590018
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-23:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 589006
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-24:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 523425
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-27:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 4
+      costMicros: 330732
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-28:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 369950
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-29:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 3
+      costMicros: 184972
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-09-30:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 2
+      costMicros: 324951
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-07:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 1
+      costMicros: 171197
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-08:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 4
+      costMicros: 292423
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-09:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 8
+      costMicros: 425921
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-10:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 340219
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-11:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 250179
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-12:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 596931
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-13:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 762632
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-14:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 679085
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-15:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 279771
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-16:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 5
+      costMicros: 386844
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-17:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 4
+      costMicros: 384320
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-18:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 410419
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-19:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 7
+      costMicros: 768255
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-20:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 4
+      costMicros: 408373
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-21:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 953521
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-22:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 7
+      costMicros: 948485
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-23:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 733658
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-24:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 875332
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-25:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 751948
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-26:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 8
+      costMicros: 739616
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-27:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 1027803
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-28:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 1048018
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-29:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 8
+      costMicros: 931847
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-30:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 9
+      costMicros: 963492
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-10-31:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 6
+      costMicros: 643436
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
+    2026-11-01:
+      sessionsEnded: 0
+      sessionsSucceeded: 0
+      promptTurns: 0
+      durationMs: 0
+      sessionsCorrected: 0
+      pricedRequests: 3
+      costMicros: 322451
+      cacheReadTokens: 0
+      cacheEligibleInputTokens: 0
+      priceVersion: litellm-2026-10-31-b264711
